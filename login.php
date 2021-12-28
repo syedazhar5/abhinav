@@ -15,6 +15,8 @@
         <div class="row">
             <div class="col-lg-6 offset-lg-3">
                 <form action="login_check.php" method="post">
+                    <center><img src="images/index.jpg" class="img-fluid" alt="logo image" width="200px">
+                </center>
                     <div class="form-group">
                       <label for="username">Username</label>
                       <input type="text" class="form-control" name="username" id="username" aria-describedby="username" placeholder="Username" required>
