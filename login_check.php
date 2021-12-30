@@ -15,7 +15,7 @@ if ($_POST) {
     }else{
         $userdata = $result->fetch_assoc();
         if($userdata['password'] == $password){
-            echo 'login success';
+            echo 'Report';
         }else{
             echo 'password Wrong';
         }
