@@ -1,6 +1,7 @@
 
         <?php include_once('templates/header.php') ?>
         <img src="images\strechmark.jpg" style="margin: 20px;" width="500px" alt="">
+        
         <p>
             What Are Stretch Marks? Stretch marks are a type of scarring that occurs when areas of the skin go through a state of excessive growth or ‘stretching’. These usually appear in areas like the stomach, thighs, hips, breasts, upper arms, and lower back.
             Stretch marks manifest as red or purple lines initially and then eventually fade into thin, white-silvery lines with a zig-zag texture. Causes Of Stretch Marks Pregnancy – Stretch marks related to pregnancy are very common for women. This
