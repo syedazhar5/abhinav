@@ -48,7 +48,7 @@
                 <div class="card">
                     <div class="card-image">
                         <a href="" data-fancybox="gallery" data-caption="Caption Images 1">
-                            <img src="" alt="Image Gallery">
+                            <img src="images\photo_2021-11-27_14-39-01.jpg" alt="Image Gallery">
                         </a>
                     </div>
                 </div>
