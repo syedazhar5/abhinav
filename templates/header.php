@@ -26,7 +26,7 @@
             loop: false,
             protect: true
         });
-    </script>z
+    </script>
 </head>
 <body>
     <div class="container">

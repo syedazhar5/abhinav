@@ -8,7 +8,7 @@
     to treat acnes, acne scars, freckles, rough and patchy skin. The treatment should be followed by certain measures. For example, one should avoid anti-acne creams 2-3 days prior and post to treatment. Sun-screen lotion should be applied after treatment
     and the individual should refrain from washing his/her face for 24 hours after the treatment. If rashes or redness is observed cold compress should be applied on the affected area. Who is eligible for the treatment? (When is the treatment done?) Skin
     Peeling Treatment comes in various formats. Yellow Peel is applied to enhance the oxygen supply to the skin and it makes the skin firm. An Agripeel reduces the number of swelling in the skin. An AHA Peel works best to cure dry skin as it improves
-    the skin’s capacity to retain moisture. Pumpkin is a natural product rich in Vitamin A and a Pumpkin Peel rejuvenates damaged skin. Chemical Skin Peeling treatment is performed after the doctor has cleaned the skin thoroughly. Then the doctor observes
+    the skin's capacity to retain moisture. Pumpkin is a natural product rich in Vitamin A and a Pumpkin Peel rejuvenates damaged skin. Chemical Skin Peeling treatment is performed after the doctor has cleaned the skin thoroughly. Then the doctor observes
     whether the skin is reacting adversely to the chemical. If nothing happens, the doctor goes head with the procedure. Chemical Peel includes Salicylic Acid Peel which helps to open the pores and destroys the acnes that cause the bacteria to progress
     and make further damages. Trichloroacetic Acid Peel is performed to cure severe skin damage. This peel contains very high concentration of acid. Therefore it cannot be left on the skin for more than a minute or two. It works well with conditions such
     as melasma (skin discoloration), scars caused by the sun, severe acnes and pigmentation. Phenol peel is the most potent form of chemical skin peeling. It is usually followed by anesthesia. The procedure is followed by a long recovery time. However,
@@ -22,7 +22,7 @@
     non-moisturizing creams should be used. A person should refrain from swimming for 2 3 days after treatment. Make-up should also be avoided. If the skin develops red patches or rashes then they should be treated with cold compress. What is the price
     of the treatment in India? Depending on the condition of the skin the recovery time varies from person to person. But generally it takes 7-14 days to recover after undergoing a skin peeling treatment. The treatment itself takes mostly 15 minutes or
     half an hour. It does not need any hospitalization. In some cases the patient is etherized. However once the treatment is done he/she is discharged. Are the results of the treatment permanent? The price of a skin peeling treatmet can be anywhere between
-    Rs 1500 and Rs 3000 per session. What are the alternatives to the treatment? The treatment is not permanent and it needs to be repeated after six months or in some cases even lesser than that, that is after 2 and a half months depending on the person’s
+    Rs 1500 and Rs 3000 per session. What are the alternatives to the treatment? The treatment is not permanent and it needs to be repeated after six months or in some cases even lesser than that, that is after 2 and a half months depending on the person's
     skin condition.
 </p>
 <?php include_once('templates/footer.php') ?>
