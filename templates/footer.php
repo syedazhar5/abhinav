@@ -29,7 +29,7 @@
                             <h4 class="headin5_amrc col_white_amrc pt2" style="color: rgb(95, 16, 16);"> <b>OPD 2</b></h4>
                             <!--headin5_amrc-->
                             <ul class="footer_ul_amrc">
-                                <p style="color: rgb(95, 16, 16); ">Timming-Evining-06:00 to 09:00, <br>Shop No. 1, Kasliwal Suvarnyog Complex, Sutgirni Road, Opp. Venkatesh Mangal Karyalaya, Garkheda, Aurangabad-431001.</p>
+                                <p style="color: rgb(95, 16, 16); ">Timming-Evening-06:00 to 09:00, <br>Shop No. 1, Kasliwal Suvarnyog Complex, Sutgirni Road, Opp. Venkatesh Mangal Karyalaya, Garkheda, Aurangabad-431001.</p>
                                 <b><p style="color: rgb(95, 16, 16);"> +91-9096283965</p></b>
                             </ul>
                         </div>
