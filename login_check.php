@@ -1,5 +1,6 @@
 <?php
-
+ob_start();
+session_start();
 if ($_POST) {
     include_once('connect.php');
     $conn = getConnection();
@@ -11,13 +12,14 @@ if ($_POST) {
 
     $result = $conn->query($sql);
     if($result->num_rows <= 0){
-        echo "User not Exist";
+        header('location:login.php?msg='.urlencode("User not Exist"));
     }else{
         $userdata = $result->fetch_assoc();
         if($userdata['password'] == $password){
-            echo 'Report';
+            $_SESSION['is_loggedin'] = true;
+            header('location:dashboard.php');
         }else{
-            echo 'password Wrong';
+            header('location:login.php?msg='.urlencode("password Wrong"));
         }
     }
 } else {

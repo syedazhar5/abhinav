@@ -24,7 +24,7 @@ margin: 0 auto;">
             <img src="images\index.jpg" class="img-fluid" alt="logo" width="200px">
         </div>
         <div class="col-lg-8" style="color: rgb(88, 209, 51); text-align:center; font-variant: small-caps;margin: auto;">
-            <h1 style="font-style:italic; text-align: center; font-size:50px; font-weight: bold;"> Skin & Cosmetology Clinic </h1>
+            <h1 style="font-style:italic; text-align: center; font-size:60px; font-weight: bold;"> Skin & Cosmetology Clinic </h1>
         </div>
     </div>
     <div class="">
