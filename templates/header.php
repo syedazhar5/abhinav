@@ -10,34 +10,24 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
     <link rel="stylesheet" href="css/gallery.css">
     <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
     <title>Abhinav Skin & Cosmetology Clinic</title>
     <link rel="icon" href=" images\index.jpg" alt="logo">
-    <script>
-        // Fancybox Configuration
-        $('[data-fancybox="gallery"]').fancybox({
-            buttons: [
-                "slideShow",
-                "thumbs",
-                "zoom",
-                "fullScreen",
-                "share",
-                "close"
-            ],
-            loop: false,
-            protect: true
-        });
-    </script>
 </head>
 <body>
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-4">
-                <img src="images\index.jpg" class="img-fluid" alt="logo" width="250px">
-            </div>
-            <div class="col-lg-8" style="color: rgb(88, 209, 51); text-align:center; font-variant: small-caps;margin: auto;">
-                <h1 style="font-style:italic; text-align: center; font-size:400%; font-weight: bold;"> Skin & Cosmetology Clinic </h1>
-            </div>
+    <div class="row" style="max-width: 70rem;
+width: 100%;
+margin: 0 auto;">
+        <div class="col-lg-4">
+            <img src="images\index.jpg" class="img-fluid" alt="logo" width="200px">
         </div>
+        <div class="col-lg-8" style="color: rgb(88, 209, 51); text-align:center; font-variant: small-caps;margin: auto;">
+            <h1 style="font-style:italic; text-align: center; font-size:50px; font-weight: bold;"> Skin & Cosmetology Clinic </h1>
+        </div>
+    </div>
+    <div class="">
         <div class="row bg-success">
             <div class="col-lg-12">
                 <!-- nav bar start -->
@@ -83,3 +73,6 @@
                 </nav>
             </div>
         </div>
+        <div style="max-width: 80rem;
+width: 100%;
+margin: 0 auto;">
