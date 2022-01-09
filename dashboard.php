@@ -20,7 +20,7 @@ $result = $conn->query($sql);
 </head>
 
 <body>
-    <h1>Appointments</h1>
+    <h1> Appointments </h1>
     <table class="table">
         <tr>
             <th>id</th>
