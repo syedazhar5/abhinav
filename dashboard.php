@@ -19,11 +19,12 @@ $result = $conn->query($sql);
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css">
 </head>
 
-<body>
-    <h1> Appointments </h1>
+<body style="text-align: center;">
+    <h1 style="font-family: Georgia, 'Times New Roman', Times, serif;"><u> Appointments </u></h1>
+    <br>
     <table class="table">
         <tr>
-            <th>id</th>
+            <th>Id</th>
             <th>Name</th>
             <th>Contact</th>
             <th>City</th>
