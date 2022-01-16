@@ -47,7 +47,7 @@
 <div class="row">
     <div class="col-lg-12">
         <p style="background: #1d7b33;" class="text-center text-white p-2">
-            Copyright 2021 - ABHINAV SKIN & COSMETOLOGY CLINIC . All Rights Reserved.
+            &copy; Copyright 2021 - ABHINAV SKIN & COSMETOLOGY CLINIC . All Rights Reserved.
         </p>
     </div>
 </div>
