@@ -47,7 +47,7 @@
 <div class="row">
     <div class="col-lg-12">
         <p style="background: #1d7b33;" class="text-center text-white p-2">
-            &copy; Copyright 2021 - Powered by - Syed Azhar Siddique, Saurabh Kishor Annadate, Mahesh Mohan Telang, Naema  Nihan Aejaz Ullah Khan, Amit Gulab Khandebharad, Anirudha Bharat Dak, Tanay Satish Kashid, Gauri Avdhoot Karajatkar, Azzam Mohammed Abdulghani Alnahari, Mohammed Hassan Ali Naji  Sharian, Gauri Avdhoot Karajatkar,Vishal Ramesh Najan. <br> ABHINAV SKIN & COSMETOLOGY CLINIC . All Rights Reserved.
+            &copy; Copyright 2021 - Powered by - Syed Azhar Siddique, Saurabh Kishor Annadate, Mahesh Mohan Telang, Naema  Nihan Aejaz Ullah Khan, Amit Gulab Khandebharad, Anirudha Bharat Dak, Tanay Satish Kashid, Gauri Avdhoot Karajatkar, Azzam Mohammed Abdulghani Alnahari, Mohammed Hassan Ali Naji  Sharian, Vishal Ramesh Najan. <br> ABHINAV SKIN & COSMETOLOGY CLINIC . All Rights Reserved.
         </p>
     </div>
 </div>
