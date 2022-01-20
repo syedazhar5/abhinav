@@ -21,7 +21,7 @@
                     <h4 class="headin5_amrc col_white_amrc pt2" style="color:rgb(95, 16, 16);"><b>OPD 1</b></h4>
                     <!--headin5_amrc-->
                     <ul class="footer_ul_amrc">
-                        <p style="color: rgb(95, 16, 16);">Timming-Afternoon-10:30 to 02:30,<br> Shanta Complex, Nutan colony Chowk, Aurangsabad-431001.</p>
+                        <p style="color: rgb(95, 16, 16);">Timming-Afternoon-10:30 am to 02:30 pm,<br> Shanta Complex, Nutan colony Chowk, Aurangabad 431001.</p>
                         <b>
                             <p style="color: rgb(95, 16, 16);"> +91-9096283965 </p>
                         </b>
@@ -32,7 +32,7 @@
                     <h4 class="headin5_amrc col_white_amrc pt2" style="color: rgb(95, 16, 16);"> <b>OPD 2</b></h4>
                     <!--headin5_amrc-->
                     <ul class="footer_ul_amrc">
-                        <p style="color: rgb(95, 16, 16); ">Timming-Evening-06:00 to 09:00, <br>Shop No. 1, Kasliwal Suvarnyog Complex, Sutgirni Road, Opp. Venkatesh Mangal Karyalaya, Garkheda, Aurangabad-431001.</p>
+                        <p style="color: rgb(95, 16, 16); ">Timming-Evening-06:00 pm to 09:00 pm, <br>Shop No. 1, Kasliwal Suvarnyog Complex, Sutgirni Road, Opp. Venkatesh Mangal Karyalaya, Garkheda, Aurangabad-431001.</p>
                         <b>
                             <p style="color: rgb(95, 16, 16);"> +91-9096283965</p>
                         </b>
@@ -47,7 +47,9 @@
 <div class="row">
     <div class="col-lg-12">
         <p style="background: #1d7b33;" class="text-center text-white p-2">
-            &copy; Copyright 2021 - Powered by - Syed Azhar Siddique, Saurabh Kishor Annadate, Mahesh Mohan Telang, Naema  Nihan Aejaz Ullah Khan, Amit Gulab Khandebharad, Anirudha Bharat Dak, Tanay Satish Kashid, Gauri Avdhoot Karajatkar, Azzam Mohammed Abdulghani Alnahari, Mohammed Hassan Ali Naji  Sharian, sVishal Ramesh Najan. <br> ABHINAV SKIN & COSMETOLOGY CLINIC . All Rights Reserved.
+            &copy; Copyright 2021 - ABHINAV SKIN & COSMETOLOGY CLINIC . All Rights Reserved.<br>
+            Powered by - Syed Azhar Siddique, Saurabh Kishor Annadate, Mahesh Mohan Telang, Naema  Nihan Aejaz Ullah Khan, Amit Gulab Khandebharad, Anirudha Bharat Dak, Tanay Satish Kashid, Gauri Avdhoot Karajatkar, Azzam Mohammed Abdulghani Alnahari, Mohammed Hassan Ali Naji  Sharian, sVishal Ramesh Najan.
+            
         </p>
     </div>
 </div>
