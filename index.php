@@ -4,7 +4,7 @@
                 <div class="jumbotron m-2">
                     <h1 class="display-5">Dr. (Mrs) Vaishali J. Dongre (Kolambikar)</h1>
                     <h2>M.B.B.S., D.V.V., (Mumbai)</h2>
-                    Dr. Vaishali is eminent & experienced senior dermatologist in Aurangabad City. Practicing since more than 10 years.She is specialised in cosmetology, dermatology, vinerology, leprosis treatments.
+                    Dr. Vaishali is eminent & experienced senior dermatologist in Aurangabad City. Practicing since more than 10 years. She is specialised in cosmetology, dermatology, vinerology, leprosis treatments.
                 </div>
             </div>
             <div class="col-lg-4">
