@@ -1,2 +1,2 @@
 <?php 
-$base_path = 'http://loclhost/abhinav';
+$base_path = 'http://localhost/abhinav';
