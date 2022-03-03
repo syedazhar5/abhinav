@@ -9,7 +9,6 @@ if ($_POST) {
     $password = $_POST['password'];
 
     $sql = "SELECT * FROM `login` WHERE `username` = '$username'";
-
     $result = $conn->query($sql);
     if($result->num_rows <= 0){
         header('location:login.php?msg='.urlencode("User not Exist"));

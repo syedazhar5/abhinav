@@ -1,6 +1,7 @@
 <?php
 include_once('connect.php');
 $conn = getConnection();
+
 // create a variable  
 $p_name=$_POST['p_name'];
 $contact_no =$_POST['contact_no'];
